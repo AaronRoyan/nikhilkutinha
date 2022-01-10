@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <a href="https://tailwindcss.com/" target="_blank">
     <img
-        src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.ed60a6f85c663923c4d6ee9d85f359cd.svg"
+        src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"
         alt="tailwindcss"
         width="40"
         height="40"
